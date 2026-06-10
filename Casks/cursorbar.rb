@@ -1,8 +1,8 @@
 cask "cursorbar" do
-  version "1.0.0"
-  sha256 "9bd13300ccad8abb653c0648de82fbb3b268ce2cef2de2716852a344bac1b774"
+  version "1.1.0"
+  sha256 "90cb65afed974b544c07c71a2febfd42fdfc578bd3157a4ce238df99801083a7"
 
-  url "https://github.com/c-johannesen/cursorbar/releases/download/v1.0.0/CursorBar-1.0.0.zip"
+  url "https://github.com/c-johannesen/cursorbar/releases/download/v1.1.0/CursorBar-1.1.0.zip"
   name "CursorBar"
   desc "Menu bar app showing Cursor plan usage and remaining credits"
   homepage "https://github.com/c-johannesen/cursorbar"
